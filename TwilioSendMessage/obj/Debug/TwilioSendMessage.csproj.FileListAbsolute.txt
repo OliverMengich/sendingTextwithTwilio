@@ -1,0 +1,17 @@
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\TwilioSendMessage.exe.config
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\TwilioSendMessage.exe
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\TwilioSendMessage.pdb
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\Twilio.dll
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\bin\Debug\Twilio.xml
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\obj\Debug\TwilioSendMessage.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\obj\Debug\TwilioSendMessage.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\obj\Debug\TwilioSendMessage.csproj.CopyComplete
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\obj\Debug\TwilioSendMessage.exe
+C:\Users\olive\source\repos\TwilioSendMessage\TwilioSendMessage\obj\Debug\TwilioSendMessage.pdb
